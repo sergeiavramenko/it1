@@ -1,13 +1,18 @@
 p {
-    background-color: green;
-    font-size: 24px;
-    
+  background-color: green;
+  font-size: 24px;
 }
 
 .conteiner {
-    display: inline-block;
-    text-align: center;
-    background-color:rgb(184, 184 , 184)
+    margin: 20px;
+    margin-top: 50px;
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(184, 184, 184);
 }
-
-
+.main {
+  text-align: center;
+}
+.conteiner>img {
+    max-width: 300px;
+}
